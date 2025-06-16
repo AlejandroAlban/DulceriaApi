@@ -1,0 +1,6 @@
+@Dulceria.APIWEB_HostAddress = http://localhost:5072
+
+GET {{Dulceria.APIWEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
