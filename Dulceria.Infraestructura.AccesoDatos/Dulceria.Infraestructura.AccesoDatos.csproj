@@ -20,8 +20,4 @@
     <ProjectReference Include="..\Dulceria.Dominio.Servicios\Dulceria.Dominio.Servicios.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositorio\" />
-  </ItemGroup>
-
 </Project>
